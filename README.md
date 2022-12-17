@@ -2,3 +2,4 @@
 >- JOGO MARIO
 ---
 - Pressione qualquer tecla para pular
+<img src='./img/mario.gif'>
